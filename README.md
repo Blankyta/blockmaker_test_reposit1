@@ -2,3 +2,5 @@
 Repositorio para probar los primeros con git y github
 
 este es el primer commit en blockmaker academy
+
+este es el segundo commit en blockmaker academy
